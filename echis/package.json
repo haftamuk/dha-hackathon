@@ -1,0 +1,14 @@
+{
+  "name": "echis",
+  "version": "1.0.0",
+  "description": "Electronic Community Health Information System (eCHIS) is envisioned as both a job aid, designed to improve quality of care and support longitudinal client tracking and referrals, and a data reporting tool providing data to decision makers on community health status. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "echis"
+  ],
+  "author": "",
+  "license": "ISC"
+}

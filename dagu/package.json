@@ -1,0 +1,14 @@
+{
+  "name": "dagu",
+  "version": "1.0.0",
+  "description": "Dagu / eAPTS as an application for stock pharmacy maintains the drug and medication lists of a given facility at a dispensing unit level.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dagu"
+  ],
+  "author": "",
+  "license": "ISC"
+}
