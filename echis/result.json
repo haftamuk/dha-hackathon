@@ -1,0 +1,137 @@
+{
+    "columns": [{
+            "header": "health post Id",
+            "slug": "health_post_id"
+        },
+        {
+            "header": "health post",
+            "slug": "health_post"
+        },
+        {
+            "header": "FP_CAR_Age.1.1:Family Planning:10-14 yr",
+            "slug": "fp_new_at_10_to_14"
+        },
+        {
+            "header": "FP_CAR_Age.1.2:Family Planning:15-19 yr",
+            "slug": "fp_new_at_15_to_19"
+        },
+        {
+            "header": "FP_CAR_Age.1.3 Women aged 20 to 24 years who accept a modern contraceptive method",
+            "slug": "fp_new_at_20_to_24"
+        },
+        {
+            "header": "FP_CAR_Age.1.4 Women aged 25 to 29 years who accept a modern contraceptive method",
+            "slug": "fp_new_at_25_to_29"
+        },
+        {
+            "header": "FP_CAR_Age.1.5 Women aged 30 to 49 years who accept a modern contraceptive method",
+            "slug": "fp_new_at_30_to_49"
+        },
+        {
+            "header": "FP_CAR_Age.2.1 Repeat contraceptive acceptors of women aged 10 to 14 years",
+            "slug": "fp_repeat_at_10_to_14"
+        },
+        {
+            "header": "FP_CAR_Age.2.2 Repeat contraceptive acceptors of women aged 15 to 19 years",
+            "slug": "fp_repeat_at_15_to_19"
+        },
+        {
+            "header": "FP_CAR_Age.2.3 Repeat contraceptive acceptors of women aged 20 to 24 years",
+            "slug": "fp_repeat_at_20_to_24"
+        },
+        {
+            "header": "FP_CAR_Age.2.4 Repeat contraceptive acceptors of women aged 25 to 29 years",
+            "slug": "fp_repeat_at_25_to_29"
+        },
+        {
+            "header": "FP_CAR_Age.2.5 Repeat contraceptive acceptors of women aged 30 to 49 years",
+            "slug": "fp_repeat_at_30_to_49"
+        },
+        {
+            "header": "FP_CAR_Mtd.1.1 Oral contraceptives new acceptors",
+            "slug": "fp_new_oral_contraceptives"
+        },
+        {
+            "header": "FP_CAR_Mtd.1.2 Injectables new acceptors",
+            "slug": "fp_new_injectables"
+        },
+        {
+            "header": "FP_CAR_Mtd.1.3 Implants new acceptors",
+            "slug": "fp_new_implants"
+        },
+        {
+            "header": "FP_CAR_Mtd.1.4 Iucd new acceptors",
+            "slug": "fp_new_iucd"
+        },
+        {
+            "header": "FP_CAR_Mtd.2.1 Oral contraceptives repeat acceptors",
+            "slug": "fp_repeat_oral_contraceptives"
+        },
+        {
+            "header": "FP_CAR_Mtd.2.2 Injectables repeat acceptors",
+            "slug": "fp_repeat_injectables"
+        },
+        {
+            "header": "FP_CAR_Mtd.2.3 Implants repeat acceptors",
+            "slug": "fp_repeat_implants"
+        },
+        {
+            "header": "FP_CAR_Mtd.2.4 IUCD repeat acceptors",
+            "slug": "fp_repeat_iucd"
+        },
+        {
+            "header": "FP_CAR_Mtd.2.7 Others repeat acceptors",
+            "slug": "FP_CAR_Mtd_2_7"
+        }
+    ],
+    "data": [{
+            "FP_CAR_Mtd_2_7": 2,
+            "fp_new_at_10_to_14": 0,
+            "fp_new_at_15_to_19": 0,
+            "fp_new_at_20_to_24": 0,
+            "fp_new_at_25_to_29": 0,
+            "fp_new_at_30_to_49": 1,
+            "fp_new_implants": 0,
+            "fp_new_injectables": 0,
+            "fp_new_iucd": 0,
+            "fp_new_oral_contraceptives": 0,
+            "fp_repeat_at_10_to_14": 0,
+            "fp_repeat_at_15_to_19": 0,
+            "fp_repeat_at_20_to_24": 0,
+            "fp_repeat_at_25_to_29": 2,
+            "fp_repeat_at_30_to_49": 0,
+            "fp_repeat_implants": 0,
+            "fp_repeat_injectables": 0,
+            "fp_repeat_iucd": 0,
+            "fp_repeat_oral_contraceptives": 0,
+            "health_post": "Bili Health Post",
+            "health_post_id": "025b32bb64ad40dc9b4c29ea8f57454f"
+        },
+        {
+            "FP_CAR_Mtd_2_7": 0,
+            "fp_new_at_10_to_14": 0,
+            "fp_new_at_15_to_19": 0,
+            "fp_new_at_20_to_24": 0,
+            "fp_new_at_25_to_29": 0,
+            "fp_new_at_30_to_49": 0,
+            "fp_new_implants": 0,
+            "fp_new_injectables": 0,
+            "fp_new_iucd": 0,
+            "fp_new_oral_contraceptives": 0,
+            "fp_repeat_at_10_to_14": 0,
+            "fp_repeat_at_15_to_19": 0,
+            "fp_repeat_at_20_to_24": 0,
+            "fp_repeat_at_25_to_29": 0,
+            "fp_repeat_at_30_to_49": 0,
+            "fp_repeat_implants": 0,
+            "fp_repeat_injectables": 0,
+            "fp_repeat_iucd": 0,
+            "fp_repeat_oral_contraceptives": 0,
+            "health_post": null,
+            "health_post_id": "025b32bb64ad40dc9b4c29ea8f57454f"
+        }
+    ],
+    "next_page": "",
+    "resource_uri": "/a/fmoh-echis/api/v0.5/configurablereportdata/a3a2445f50ef3e0254d2231733a7dc37/?health_post_id=025b32bb64ad40dc9b4c29ea8f57454f&limit=10&offset=0",
+    "total_records": 2
+}
