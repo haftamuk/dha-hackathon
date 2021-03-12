@@ -2,7 +2,7 @@
   "name": "emr",
   "version": "1.0.0",
   "description": "An Electronic Medical Record(EMR)",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,6 +15,7 @@
     "nodemon": "^2.0.7"
   },
   "dependencies": {
+    "body-parser": "^1.19.0",
     "express": "^4.17.1"
   }
 }
