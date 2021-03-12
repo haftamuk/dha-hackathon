@@ -9,6 +9,9 @@ This repository is created to simulate APIs of identified HIS endpoints to help 
 ## Installation
 
 - Install nodeJS
+
+please use nodeJS documentation to install node https://nodejs.org/en/download/
+
 - Clone this repository
 
 <code>
@@ -49,11 +52,15 @@ npm start
 
 eCHIS/DHIS2 data exchange
 Ethiopia’s health system is decentralized and most of the service is given at health post and health center settings. Data exchange between eCHIS and DHIS2 is needed to reveal the continuum of service and care of individuals.
+
 <code>
-cd echis
-npm start
-cd ../dhis2
-npm start  
+  cd echis
+  
+  npm start
+  
+  cd ../dhis2
+  
+  npm start  
 </code>
 
 ### DATIM report migrater
@@ -62,7 +69,8 @@ HIV data collected using standardized excel from ART sites get encoded to DHIS2 
 
 <code> 
   cd datim
-  npm start
+
+npm start
 </code>
 
 ### NHDD, MFR synchronization
@@ -71,6 +79,6 @@ A shared terminology and facility registries are the major components of eHA. A 
 
 <code> 
   cd ts
-
-npm start
+  
+  npm start
 </code>
