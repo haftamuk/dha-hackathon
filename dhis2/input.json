@@ -1,1 +1,12 @@
-{}
+{
+  "dataSet": "DATASET-ID",
+  "period": "YEARMONTH",
+  "orgUnit": "FACILITY/HEALTHPOST/ORGANIZATIONID",
+  "dataValues": [
+		{
+      "dataElement": "DATAELEMENTID",
+      "categoryOptionCombo": "INDICATORAGREGATIONID",
+      "value": NUMERIC VALUE OF THE INDICATOR
+    }
+  ]
+}
