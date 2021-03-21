@@ -24,7 +24,8 @@ app.post("/", function (req, res) {
     console.log("Recieved Message: " + req.body);
 
     res.json({
-      message: "Message Recieved",
+      messrecieved: req.body,
+      messrecieveed: input,
     });
   } catch (error) {
     console.log(error);
