@@ -17,3 +17,31 @@ Please duplicate sample records available in output.json to suite the use case a
 
 - records with active and not active status
 - different visit dates
+# Data Elements
+## Contraceptive Acceptance Rate 
+### Total new and repeat acceptors, disaggregated by age => Sum
+#### New Acceptors by age => Sum
+1. 10-14 yr
+2. 15-19 yr
+3. 20 - 24 yr
+4. 25 -29 yr
+5. 30 -49 yr
+#### Repeat acceptors by age => sum
+1. 10-14 yr
+2. 15-19 yr
+3. 20 - 24 yr
+4. 25 -29 yr
+5. 30 -49 yr
+### Total new and repeat acceptors, disaggregated by	
+#### New Acceptors by method=> Sum
+1. Oral contraceptives
+2. Injectable
+3. Implants
+4. IUCD
+5. Others
+#### Repeat acceptors by method=> sum
+1. Oral contraceptives
+2. Injectable
+3. Implants
+4. IUCD
+5. Others
