@@ -1,6 +1,6 @@
-# dha-hackathon
+# DHA-Hackathon
 
-This repository is created to simulate APIs of identified HIS endpoints to help focus hackathon participants on health data exchange and interoperability. Check out the [wiki](https://github.com/haftamuk/dha-hackathon/wiki), to know more about the Hackathon!
+This repository is created to simulate APIs of identified HIS endpoints to help focus hackathon participants on health data exchange and interoperability. Check out the [Hackathon Coding Competition WIKI](https://github.com/haftamuk/dha-hackathon/wiki), to know more about the Hackathon!
 
 # Objective
 
