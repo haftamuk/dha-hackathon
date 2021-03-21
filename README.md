@@ -104,12 +104,3 @@ A shared terminology and facility registries are the major components of eHA. A 
   cd ts
   npm start
 ```
-
-## Hackathon Steps and Evaluation 
-1. Level One: Integration of two HISs
-- In this level, participants are expected to select a usecase from the available listes and try to integrate those two participating HIS applications. so the expectation is to understand the API of the participating applications and using the OpenHIM mediator to rearrange from the input sending applicaiton API to the output accepting API and send it to the receiving end. 
-2. Level Two:Use terminology service
-- If participants manage to pass the first level, there will be a challenge to use a third single source of truth terminology service as a shared sersvice to reconsile and aggree terminologies in between the participating applications. with that, participants will use terminology service.
-
-3. Level Three: Testing on production/Mirror coresponding HIS
-- There are ready instances of the HIS applicaitons and participants are expected to use this real systems for thier consumption.
