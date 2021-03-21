@@ -1,1 +1,33 @@
-{}
+[{
+        "id": "5edf968c302698004269a4ec",
+        "uuid": "5edf968c302698004269a4ec",
+        "external_id": "",
+        "retired": true,
+        "map_type": "SAME-AS",
+        "source": "eCHIS-CODES",
+        "owner": "haftamuk",
+        "owner_type": "User",
+        "from_concept_url": "/users/haftamuk/sources/eCHIS-CODES/concepts/fp_new_at_20_to_24/",
+        "to_concept_url": "/users/haftamuk/sources/HMIS-CODES/concepts/wiFV8Q2RVeg/",
+        "to_source_url": "/users/haftamuk/sources/HMIS-CODES/",
+        "to_concept_code": "wiFV8Q2RVeg",
+        "to_concept_name": "20 - 24 years",
+        "url": "/users/haftamuk/sources/eCHIS-CODES/mappings/5edf968c302698004269a4ec/"
+    },
+    {
+        "id": "5ee53aa4302698004269a56c",
+        "uuid": "5ee53aa4302698004269a56c",
+        "external_id": "",
+        "retired": false,
+        "map_type": "Part of",
+        "source": "eCHIS-CODES",
+        "owner": "haftamuk",
+        "owner_type": "User",
+        "from_concept_url": "/users/haftamuk/sources/eCHIS-CODES/concepts/fp_new_at_20_to_24/",
+        "to_concept_url": "/users/haftamuk/sources/HMIS-CODES/concepts/XGzeutIIVz7/",
+        "to_source_url": "/users/haftamuk/sources/HMIS-CODES/",
+        "to_concept_code": "XGzeutIIVz7",
+        "to_concept_name": "Contraceptive new acceptors by age",
+        "url": "/users/haftamuk/sources/eCHIS-CODES/mappings/5ee53aa4302698004269a56c/"
+    }
+]

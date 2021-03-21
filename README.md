@@ -104,3 +104,13 @@ A shared terminology and facility registries are the major components of eHA. A 
   cd ts
   npm start
 ```
+
+Hackathon
+Level One:
+Integration of two HISs
+
+Level Two:
+Use terminology service
+
+Level Three:
+Testing on production/Mirror coresponding HIS

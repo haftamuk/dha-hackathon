@@ -82,6 +82,10 @@
         {
             "header": "FP_CAR_Mtd.2.7 Others repeat acceptors",
             "slug": "FP_CAR_Mtd_2_7"
+        },
+        {
+            "header": "FP_CAR Visit Date",
+            "slug": "FP_CAR_visit_date"
         }
     ],
     "data": [{
@@ -105,7 +109,8 @@
             "fp_repeat_iucd": 0,
             "fp_repeat_oral_contraceptives": 0,
             "health_post": "Bili Health Post",
-            "health_post_id": "025b32bb64ad40dc9b4c29ea8f57454f"
+            "health_post_id": "025b32bb64ad40dc9b4c29ea8f57454f",
+            "FP_CAR_visit_date": "2021-05-31"
         },
         {
             "FP_CAR_Mtd_2_7": 0,
@@ -128,7 +133,8 @@
             "fp_repeat_iucd": 0,
             "fp_repeat_oral_contraceptives": 0,
             "health_post": null,
-            "health_post_id": "025b32bb64ad40dc9b4c29ea8f57454f"
+            "health_post_id": "025b32bb64ad40dc9b4c29ea8f57454f",
+            "FP_CAR_visit_date": "2021-05-31"
         }
     ],
     "next_page": "",

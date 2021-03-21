@@ -1,12 +1,20 @@
 {
-  "dataSet": "DATASET-ID",
+  "dataSet": "DATASETID",
   "period": "YEARMONTH",
-  "orgUnit": "FACILITY/HEALTHPOST/ORGANIZATIONID",
-  "dataValues": [
-		{
+  "orgUnit": "ID",
+  "dataValues": [{
       "dataElement": "DATAELEMENTID",
-      "categoryOptionCombo": "INDICATORAGREGATIONID",
-      "value": NUMERIC VALUE OF THE INDICATOR
+      "period": "YEARMONTH",
+      "orgUnit": "ORGUNITID",
+      "categoryOptionCombo": "categoryOptionComboID",
+      "value": NUMERICVALUE
+    },
+    {
+      "dataElement": "DATAELEMENTID",
+      "period": "YEARMONTH",
+      "orgUnit": "ORGUNITID",
+      "categoryOptionCombo": "categoryOptionComboID",
+      "value": NUMERICVALUE
     }
   ]
 }
