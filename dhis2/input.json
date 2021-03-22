@@ -7,14 +7,14 @@
       "period": "YEARMONTH",
       "orgUnit": "ORGUNITID",
       "categoryOptionCombo": "categoryOptionComboID",
-      "value": NUMERICVALUE
+      "value": 3
     },
     {
       "dataElement": "DATAELEMENTID",
       "period": "YEARMONTH",
       "orgUnit": "ORGUNITID",
       "categoryOptionCombo": "categoryOptionComboID",
-      "value": NUMERICVALUE
+      "value": 5
     }
   ]
 }

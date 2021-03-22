@@ -1,6 +1,6 @@
-# dha-hackathon
+# DHA-Hackathon
 
-This repository is created to simulate APIs of identified HIS endpoints to help focus hackathon participants on health data exchange and interoperability.
+This repository is created to simulate APIs of identified HIS endpoints to help focus hackathon participants on health data exchange and interoperability. Check out the [Hackathon Coding Competition WIKI](https://github.com/haftamuk/dha-hackathon/wiki), to know more about the Hackathon!
 
 # Objective
 
@@ -104,13 +104,3 @@ A shared terminology and facility registries are the major components of eHA. A 
   cd ts
   npm start
 ```
-
-Hackathon
-Level One:
-Integration of two HISs
-
-Level Two:
-Use terminology service
-
-Level Three:
-Testing on production/Mirror coresponding HIS
