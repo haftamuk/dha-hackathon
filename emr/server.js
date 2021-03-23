@@ -4,7 +4,9 @@ var express = require("express"),
 
 var bodyParser = require("body-parser");
 app.use(bodyParser.json()); // support json encoded bodies
-app.use(bodyParser.urlencoded({ extended: true })); // support encoded bodies
+app.use(bodyParser.urlencoded({
+  extended: true
+})); // support encoded bodies
 
 // ################## This is included to mock the response ##################
 var input = require("./input");
@@ -14,7 +16,7 @@ var output = require("./output");
 app.get("/", function (req, res) {
   try {
     res.json({
-      message: "Success Message",
+      output,
     });
   } catch (error) {
     console.log(error);
@@ -26,7 +28,7 @@ app.post("/", function (req, res) {
     console.log(JSON.stringify(req.body));
 
     res.json({
-      message: "Message Recieved",
+      message: "Success Message",
     });
   } catch (error) {
     console.log(error);
